@@ -16,7 +16,7 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         # Optional: specify the Ruby version
-        ruby-version: '4.x' 
+        ruby-version: '3.x' 
         # The setup-ruby action automatically installs dependencies with bundle install
         # it uses the version specified in your Gemfile.lock
     - name: Build the site in the jekyll/builder container
