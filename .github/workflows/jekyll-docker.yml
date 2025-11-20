@@ -1,0 +1,23 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: ruby/setup-ruby@v1
+    with:
+    # Optional: specify the Ruby version
+    ruby-version: '3.x' 
+    # The setup-ruby action automatically installs dependencies with bundle install
+    # it uses the version specified in your Gemfile.lock
+    - name: Run tests
+      run: bundle exec rake test
