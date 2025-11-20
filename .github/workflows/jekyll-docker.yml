@@ -14,9 +14,9 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
-      # with:
+      with:
         # Optional: specify the Ruby version
-        # ruby-version: '3.x' 
+        ruby-version: '4.x' 
         # The setup-ruby action automatically installs dependencies with bundle install
         # it uses the version specified in your Gemfile.lock
     - name: Build the site in the jekyll/builder container
