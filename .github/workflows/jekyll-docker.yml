@@ -13,8 +13,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - uses: ruby/setup-ruby@v1
+      with:
+        # Optional: specify the Ruby version
+        ruby-version: '3.x' 
+        # The setup-ruby action automatically installs dependencies with bundle install
+        # it uses the version specified in your Gemfile.lock
     - name: Build the site in the jekyll/builder container
-      run: |
+      run:  bundle exec rake test |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
