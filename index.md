@@ -1,12 +1,11 @@
 ---
 ---
 
-#Lab Website Template
+# Welcome to the InSCyTLab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+The Intelligent Software and Cybersecurity Research Lab (InSCyTLab) comprises a group of researchers from the Information Technology Discipline in the [Faculty of Science and Engineering](https://www.scu.edu.au/science-and-engineering/) at [Southern Cross University](https://www.scu.edu.au/) in Australia. It is located on the beautiful Gold Coast Campus near the Coolangatta airport. 
 
-{%
+<!-- {%
   include button.html
   type="docs"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
@@ -16,7 +15,7 @@ Spend less time worrying about managing a website and citations, and more time r
   type="github"
   text="On GitHub"
   link="greenelab/lab-website-template"
-%}
+%} -->
 
 {% include section.html %}
 
