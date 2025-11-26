@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The InSCyTLab has the following researchers with collective expertise in software engineering, artificial intelligence, cybersecurity, and system development who share a common interest in research innovation for improving and securing software development and systems through artificial intelligence technologies:
 
 {% include section.html %}
 
@@ -18,17 +16,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The InSCyTLab collaborates closely with researchers nationally and internationally, such as Adelaide University, Deakin University, University of Queensland, UNSW, Nanjing University, and Tianjin University. 
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/au.png"%}
+{% include figure.html image="images/deakin.png"%}
+{% include figure.html image="images/uq.png"%}
+{% include figure.html image="images/unsw.png"%}
+{% include figure.html image="images/nju.png"%}
+{% include figure.html image="images/tju.png"%}
 
 {% endcapture %}
 
