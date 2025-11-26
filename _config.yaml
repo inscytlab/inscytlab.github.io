@@ -1,19 +1,19 @@
 # site properties and page defaults
 title: Intelligent Software and Cybersecurity Technologies
 subtitle: (InSCyTLab)
-description: This is the website of the Intelligent Software and Cybersecurity Technologies Laboratory (InSCyTLab) in the Faculty of Science and Engineering at Southern Cross University, Australia.
+description: This is the website of the Intelligent Software and Cybersecurity Technologies Research Lab (InSCyTLab) in the Faculty of Science and Engineering at Southern Cross University in Australia.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
-links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+# links:
+#   email: contact@your-lab.com
+#   orcid: 0000-0001-8713-9213
+#   google-scholar: ETJoidYAAAAJ
+#   github: your-lab
+#   twitter: YourLabHandle
+#   youtube: YourLabChannel
 
 ### jekyll settings
 
