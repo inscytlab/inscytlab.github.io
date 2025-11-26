@@ -1,265 +1,968 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1145/3695993
+  title: Fine-Tuning Large Language Models to Improve Accuracy and Comprehensibility
+    of Automated Code Review
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
+  - Yongda Yu
+  - Guoping Rong
+  - Haifeng Shen
+  - He Zhang
+  - Dong Shao
+  - Min Wang
+  - Zhao Wei
+  - Yong Xu
+  - Juhong Wang
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2024-12-27'
+  link: https://doi.org/hbb87g
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: A novel LLM fine-tuning method that significantly improves accuracy
+    and comprehensibility of automated code review.
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+    text: Code and Data
+    link: https://github.com/aiopsplus/Carllm
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - code review
+  - fine tuning
+  - large language model
+  repo: aiopsplus/Carllm
   plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  file: sources-shen.yaml
+- id: doi:10.1109/ICSE55347.2025.00035
+  title: Code Comment Inconsistency Detection and Rectification Using a Large Language
+    Model
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Guoping Rong
+  - Yongda Yu
+  - Song Liu
+  - Xin Tan
+  - Tianyi Zhang
+  - Haifeng Shen
+  - Jidong Hu
+  publisher: 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+  date: '2025-04-26'
+  link: https://doi.org/hbcpb5
   plugin: sources.py
-  file: sources.yaml
+  file: sources-shen.yaml
+- id: doi:10.1007/s10515-025-00540-6
+  title: Automated detection of affected libraries from vulnerability reports
+  authors:
+  - Jinwei Xu
+  - He Zhang
+  - Xin Zhou
+  - Yanjing Yang
+  - Runfeng Mao
+  - Xiaokang Li
+  - Lanxin Yang
+  - Haifeng Shen
+  publisher: Automated Software Engineering
+  date: '2025-08-11'
+  link: https://doi.org/hbb84c
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10515-025-00540-6/MediaObjects/10515_2025_540_Fig2_HTML.png?as=webp
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/JIOT.2025.3595556
+  title: 'DeepMetaIoT: A Multimodal Deep Learning Framework Harnessing Metadata for
+    IoT Sensor Data Classification'
+  authors:
+  - Muhammad Sakib Khan Inan
+  - Kewen Liao
+  - Haifeng Shen
+  - Prem Prakash Jayaraman
+  - Federico Montori
+  - Dimitrios Georgakopoulos
+  publisher: IEEE Internet of Things Journal
+  date: '2025-10-15'
+  link: https://doi.org/hbb85j
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.jss.2024.112234
+  title: 'DLAP: A Deep Learning Augmented Large Language Model Prompting framework
+    for software vulnerability detection'
+  authors:
+  - Yanjing Yang
+  - Xin Zhou
+  - Runfeng Mao
+  - Jinwei Xu
+  - Lanxin Yang
+  - Yu Zhang
+  - Haifeng Shen
+  - He Zhang
+  publisher: Journal of Systems and Software
+  date: '2025-01-01'
+  link: https://doi.org/g894wd
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1145/3755881.3755889
+  title: 'AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues
+    for Enhancing LLM-based Log Generation'
+  authors:
+  - Hao Zhang
+  - Dongjun Yu
+  - Lei Zhang
+  - Guoping Rong
+  - Yongda Yu
+  - Haifeng Shen
+  - He Zhang
+  - Dong Shao
+  - Hongyu Kuang
+  publisher: Proceedings of the 16th International Conference on Internetware
+  date: '2025-06-20'
+  link: https://doi.org/hbb85k
+  image: https://dl.acm.org/cms/10.1145/3755881.3755889/asset/61e7cf9b-77b7-4cc9-a001-25616da039c3/assets/images/medium/internetware2025-8-fig1.jpg
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.future.2024.06.014
+  title: "KRIOTA: A framework for Knowledge-management of dynamic Reference Information\
+    \ and Optimal Task Assignment in hybrid edge\u2013cloud environments to support\
+    \ situation-aware robot-assisted operations"
+  authors:
+  - Muhammad Aufeef Chauhan
+  - Muhammad Ali Babar
+  - Haifeng Shen
+  publisher: Future Generation Computer Systems
+  date: '2024-11-01'
+  link: https://doi.org/hbcpb6
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/TSE.2024.3356819
+  title: Distilling Quality Enhancing Comments From Code Reviews to Underpin Reviewer
+    Recommendation
+  authors:
+  - Guoping Rong
+  - Yongda Yu
+  - Yifan Zhang
+  - He Zhang
+  - Haifeng Shen
+  - Dong Shao
+  - Hongyu Kuang
+  - Min Wang
+  - Zhao Wei
+  - Yong Xu
+  - Juhong Wang
+  publisher: IEEE Transactions on Software Engineering
+  date: '2024-07-01'
+  link: https://doi.org/hbcpb7
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1249/MSS.0000000000003297
+  title: Hamstring Strain Injury Risk Factors in Australian Football Change over the
+    Course of the Season
+  authors:
+  - AYLWIN SIM
+  - RYAN G. TIMMINS
+  - JOSHUA D. RUDDY
+  - HAIFENG SHEN
+  - KEWEN LIAO
+  - NIRAV MANIAR
+  - JACK T. HICKEY
+  - MORGAN D. WILLIAMS
+  - DAVID A. OPAR
+  publisher: Medicine &amp; Science in Sports &amp; Exercise
+  date: '2023-09-12'
+  link: https://doi.org/gt2c7m
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/TSE.2023.3330510
+  title: 'The <i>Why</i>, <i>When</i>, <i>What,</i> and <i>How</i> About Predictive
+    Continuous Integration: A Simulation-Based Investigation'
+  authors:
+  - Bohan Liu
+  - He Zhang
+  - Weigang Ma
+  - Gongyuan Li
+  - Shanshan Li
+  - Haifeng Shen
+  publisher: IEEE Transactions on Software Engineering
+  date: '2023-12-01'
+  link: https://doi.org/hbcpb8
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/ICSE48619.2023.00080
+  title: How Do Developers' Profiles and Experiences Influence their Logging Practices?
+    An Empirical Study of Industrial Practitioners
+  authors:
+  - Guoping Rong
+  - Shenghui Gu
+  - Haifeng Shen
+  - He Zhang
+  - Hongyu Kuang
+  publisher: 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)
+  date: '2023-05-01'
+  link: https://doi.org/hbcpb9
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/TSE.2023.3241299
+  title: 'TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using
+    Multiple Types of Telemetry Data in Microservice Systems'
+  authors:
+  - Shenghui Gu
+  - Guoping Rong
+  - Tian Ren
+  - He Zhang
+  - Haifeng Shen
+  - Yongda Yu
+  - Xian Li
+  - Jian Ouyang
+  - Chunan Chen
+  publisher: IEEE Transactions on Software Engineering
+  date: '2023-05-01'
+  link: https://doi.org/hbcpcb
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1049/sfw2.12132
+  title: "Revisit security in the era of DevOps: An evidence\u2010based inquiry into\
+    \ DevSecOps industry"
+  authors:
+  - Xin Zhou
+  - Runfeng Mao
+  - He Zhang
+  - Qiming Dai
+  - Huang Huang
+  - Haifeng Shen
+  - Jingyue Li
+  - Guoping Rong
+  publisher: IET Software
+  date: '2023-07-26'
+  link: https://doi.org/gs4spb
+  image: https://ietresearch.onlinelibrary.wiley.com/cms/asset/83784c28-388d-47b9-afbd-90642434b517/sfw212132-fig-0002-m.jpg
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/ICDE55515.2023.00222
+  title: 'Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data'
+  authors:
+  - Songjie Xie
+  - Youlong Wu
+  - Kewen Liao
+  - Lu Chen
+  - Chengfei Liu
+  - Haifeng Shen
+  - MingJian Tang
+  - Lu Sun
+  publisher: 2023 IEEE 39th International Conference on Data Engineering (ICDE)
+  date: '2023-04-01'
+  link: https://doi.org/hbcpcc
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.ijhcs.2022.102927
+  title: "Evaluating the efficacy of using a novel gaze-based attentive user interface\
+    \ to extend ADHD children\u2019s attention span"
+  authors:
+  - Haifeng Shen
+  - Othman Asiry
+  - M. Ali Babar
+  - Tomasz Bednarz
+  publisher: International Journal of Human-Computer Studies
+  date: '2023-01-01'
+  link: https://doi.org/hbcpcd
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/TSE.2022.3166924
+  title: 'Logging Practices in Software Engineering: A Systematic Mapping Study'
+  authors:
+  - Shenghui Gu
+  - Guoping Rong
+  - He Zhang
+  - Haifeng Shen
+  publisher: IEEE Transactions on Software Engineering
+  date: '2023-02-01'
+  link: https://doi.org/hbcpcf
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/JBHI.2022.3152267
+  title: CNN Attention Guidance for Improved Orthopedics Radiographic Fracture Classification
+  authors:
+  - Zhibin Liao
+  - Kewen Liao
+  - Haifeng Shen
+  - Marouska F. van Boxel
+  - Jasper Prijs
+  - Ruurd L. Jaarsma
+  - Job N. Doornberg
+  - Anton van den Hengel
+  - Johan W. Verjans
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2022-07-01'
+  link: https://doi.org/hbcpcg
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.infsof.2021.106700
+  title: 'Challenges and solutions when adopting DevSecOps: A systematic review'
+  authors:
+  - Roshan N. Rajapakse
+  - Mansooreh Zahedi
+  - M. Ali Babar
+  - Haifeng Shen
+  publisher: Information and Software Technology
+  date: '2022-01-01'
+  link: https://doi.org/gn6237
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.infsof.2021.106607
+  title: 'Processes, challenges and recommendations of Gray Literature Review: An
+    experience report'
+  authors:
+  - He Zhang
+  - Runfeng Mao
+  - Huang Huang
+  - Qiming Dai
+  - Xin Zhou
+  - Haifeng Shen
+  - Guoping Rong
+  publisher: Information and Software Technology
+  date: '2021-09-01'
+  link: https://doi.org/hbcpch
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1145/3411763.3451798
+  title: 'Human-AI Interactive and Continuous Sensemaking: A Case Study of Image Classification
+    using Scribble Attention Maps'
+  authors:
+  - Haifeng Shen
+  - Kewen Liao
+  - Zhibin Liao
+  - Job Doornberg
+  - Maoying Qiao
+  - Anton van den Hengel
+  - Johan W. Verjans
+  publisher: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2021-05-08'
+  link: https://doi.org/hbcpcj
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.infsof.2020.106397
+  title: 'Quality Assessment in Systematic Literature Reviews: A Software Engineering
+    Perspective'
+  authors:
+  - Lanxin Yang
+  - He Zhang
+  - Haifeng Shen
+  - Xin Huang
+  - Xin Zhou
+  - Guoping Rong
+  - Dong Shao
+  publisher: Information and Software Technology
+  date: '2021-02-01'
+  link: https://doi.org/hbcpck
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.ijhcs.2020.102524
+  title: 'Understanding the effects of real-time sentiment analysis and morale visualisation
+    in backchannel systems: A case study'
+  authors:
+  - Theodor Wyeld
+  - Peerumporn Jiranantanagorn
+  - Haifeng Shen
+  - Kewen Liao
+  - Tomasz Bednarz
+  publisher: International Journal of Human-Computer Studies
+  date: '2021-01-01'
+  link: https://doi.org/gjt7nk
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1109/QRS51102.2020.00064
+  title: Preliminary Findings about DevSecOps from Grey Literature
+  authors:
+  - Runfeng Mao
+  - He Zhang
+  - Qiming Dai
+  - Huang Huang
+  - Guoping Rong
+  - Haifeng Shen
+  - Lianping Chen
+  - Kaixiang Lu
+  publisher: 2020 IEEE 20th International Conference on Software Quality, Reliability
+    and Security (QRS)
+  date: '2020-12-01'
+  link: https://doi.org/gh7kc2
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:/10.1145/3383219.3383222
+  title: An Experimental Evaluation of Imbalanced Learning and Time-Series Validation
+    in the Context of CI/CD Prediction
+  authors:
+  - Bohan Liu
+  - He Zhang
+  - Lanxin Yang
+  - Liming Dong
+  - Haifeng Shen
+  - Kaiwen Song
+  publisher: Proceedings of the Evaluation and Assessment in Software Engineering
+  date: '2020-04-15'
+  link: https://doi.org/hbcpcm
+  plugin: sources.py
+  file: sources-shen.yaml
+- id: doi:10.1016/j.knosys.2025.113326
+  title: A novel dictionary attack on ECG authentication system using adversarial
+    optimization and clustering
+  authors:
+  - Bonan Zhang
+  - Lin Li
+  - Chao Chen
+  - Ickjai Lee
+  - Kyungmi Lee
+  - Tianqing Zhu
+  - Kok-Leong Ong
+  publisher: Knowledge-Based Systems
+  date: '2025-09-01'
+  link: https://doi.org/hbcksb
+  type: paper
+  description: A novel dictionary attack against ECG authentication systems, which
+    poses a significant threat.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0950705125003739-gr2_lrg.jpg
+  tags:
+  - bipmetric
+  - authentication
+  - security
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1016/j.comcom.2025.108201
+  title: Standardizing the evaluation framework for ECG-based authentication in IoT
+    devices
+  authors:
+  - Bonan Zhang
+  - Lin Li
+  - Chao Chen
+  - Ickjai Lee
+  - Kyungmi Lee
+  - Kok-Leong Ong
+  publisher: Computer Communications
+  date: '2025-08-01'
+  link: https://doi.org/hbcksc
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1007/978-981-96-0567-5_19
+  title: "Deceptive Waves: Embedding Malicious Backdoors in\_PPG Authentication"
+  authors:
+  - Zeming Yao
+  - Lin Li
+  - Leo Yu Zhang
+  - Fusen Guo
+  - Chao Chen
+  - Jun Zhang
+  publisher: Lecture Notes in Computer Science
+  date: '2024-12-03'
+  link: https://doi.org/hbcksf
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1007/978-981-96-4566-4_11
+  title: "Automatic Software Vulnerability Detection in\_Binary Code"
+  authors:
+  - Shigang Liu
+  - Lin Li
+  - Xinbo Ban
+  - Chao Chen
+  - Jun Zhang
+  - Seyit Camtepe
+  - Yang Xiang
+  publisher: Lecture Notes in Computer Science
+  date: '2025-01-01'
+  link: https://doi.org/hbcpc8
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1109/JAS.2024.124983
+  title: 'The Security of Using Large Language Models: A Survey with Emphasis on ChatGPT'
+  authors:
+  - Wei Zhou
+  - Xiaogang Zhu
+  - Qing-Long Han
+  - Lin Li
+  - Xiao Chen
+  - Sheng Wen
+  - Yang Xiang
+  publisher: IEEE/CAA Journal of Automatica Sinica
+  date: '2025-01-01'
+  link: https://doi.org/hbcpc9
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1007/978-981-96-1545-2_18
+  title: "Mitigating Over-Unlearning in\_Machine Unlearning with\_Synthetic Data Augmentation"
+  authors:
+  - Baohai Wang
+  - Youyang Qu
+  - Longxiang Gao
+  - Conggai Li
+  - Lin Li
+  - David Smith
+  publisher: Lecture Notes in Computer Science
+  date: '2025-01-01'
+  link: https://doi.org/hbcpdb
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1016/j.cose.2023.103488
+  title: A Survey of PPG's Application in Authentication
+  authors:
+  - Lin Li
+  - Chao Chen
+  - Lei Pan
+  - Leo Yu Zhang
+  - Zhifeng Wang
+  - Jun Zhang
+  - Yang Xiang
+  publisher: Computers &amp; Security
+  date: '2023-12-01'
+  link: https://doi.org/hbcpdc
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1145/3607199.3607209
+  title: 'SigA: rPPG-based Authentication for Virtual Reality Head-mounted Display'
+  authors:
+  - Lin Li
+  - Chao Chen
+  - Lei Pan
+  - Leo Yu Zhang
+  - Jun Zhang
+  - Yang Xiang
+  publisher: Proceedings of the 26th International Symposium on Research in Attacks,
+    Intrusions and Defenses
+  date: '2023-10-16'
+  link: https://doi.org/hbcpdd
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1007/978-3-031-51479-1_10
+  title: "Hiding Your Signals: A Security Analysis of\_PPG-Based Biometric Authentication"
+  authors:
+  - Lin Li
+  - Chao Chen
+  - Lei Pan
+  - Yonghang Tai
+  - Jun Zhang
+  - Yang Xiang
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/g5mfr8
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1109/IJCNN54540.2023.10192018
+  title: 'SigD: A Cross-Session Dataset for PPG-based User Authentication in Different
+    Demographic Groups'
+  authors:
+  - Lin Li
+  - Chao Chen
+  - Lei Pan
+  - Jun Zhang
+  - Yang Xiang
+  publisher: 2023 International Joint Conference on Neural Networks (IJCNN)
+  date: '2023-06-18'
+  link: https://doi.org/hbcpdf
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1145/3560830.3563722
+  title: Video is All You Need
+  authors:
+  - Lin Li
+  - Chao Chen
+  - Lei Pan
+  - Jun Zhang
+  - Yang Xiang
+  publisher: Proceedings of the 15th ACM Workshop on Artificial Intelligence and Security
+  date: '2022-11-07'
+  link: https://doi.org/hbcpdg
+  plugin: sources.py
+  file: sources-li.yaml
+- id: doi:10.1109/TDSC.2025.3609801
+  title: 'From Isolation to Integration: A Reputation-Backed Auditable Model for Cohort
+    Data Sharing'
+  authors:
+  - Jie Zhang
+  - Xiaohong Li
+  - Ruitao Feng
+  - Shanshan Xu
+  - Zhe Hou
+  - Hanwei Wu
+  - Guangdong Bai
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2025-09-01'
+  link: https://doi.org/hbckqj
+  type: paper
+  description: A novel model for guaranteeing the quality and quantity of shared data,
+    addressing the data silo problem in distributed architectures.
+  tags:
+  - data sharing
+  - blockchain
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3715909
+  title: 'Beyond Decision: Android Malware Description Generation through Profiling
+    Malicious Behavior Trajectory'
+  authors:
+  - Chunlian Wu
+  - Sen Chen
+  - Jiaming Li
+  - Renchao Chai
+  - Lingling Fan
+  - Xiaofei Xie
+  - Ruitao Feng
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2025-01-31'
+  link: https://doi.org/g89rp2
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3729346
+  title: 'CAShift: Benchmarking Log-Based Cloud Attack Detection under Normality Shift'
+  authors:
+  - Jiongchi Yu
+  - Xiaofei Xie
+  - Qiang Hu
+  - Bowen Zhang
+  - Ziming Zhao
+  - Yun Lin
+  - Lei Ma
+  - Ruitao Feng
+  - Frank Liauw
+  publisher: Proceedings of the ACM on Software Engineering
+  date: '2025-06-19'
+  link: https://doi.org/hbckqp
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/JIOT.2025.3579266
+  title: 'MedExChain: Enabling Secure and Efficient PHR Sharing Across Heterogeneous
+    Blockchains'
+  authors:
+  - Yongyang Lv
+  - Xiaohong Li
+  - Kui Chen
+  - Zhe Hou
+  - Guangdong Bai
+  - Ruitao Feng
+  publisher: IEEE Internet of Things Journal
+  date: '2025-08-15'
+  link: https://doi.org/hbckqs
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1186/s42400-024-00301-0
+  title: 'Enmob: Unveil the Behavior with Multi-flow Analysis of Encrypted App Traffic'
+  authors:
+  - Ge Mengmeng
+  - Feng Ruitao
+  - Liu Likun
+  - Yu Xiangzhan
+  - Sachidananda Vinay
+  - Xie Xiaofei
+  - Liu Yang
+  publisher: Cybersecurity
+  date: '2025-04-20'
+  link: https://doi.org/hbckqw
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs42400-024-00301-0/MediaObjects/42400_2024_301_Fig3_HTML.png?as=webp
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/TrustCom63139.2024.00048
+  title: 'Behavior Speaks Louder: Rethinking Malware Analysis Beyond Family Classification'
+  authors:
+  - Fei Zhang
+  - Xiaohong Li
+  - Sen Chen
+  - Ruitao Feng
+  publisher: 2024 IEEE 23rd International Conference on Trust, Security and Privacy
+    in Computing and Communications (TrustCom)
+  date: '2024-12-17'
+  link: https://doi.org/hbcpcr
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/BIBM62325.2024.10822679
+  title: 'Cross-chain Sharing of Personal Health Records: Heterogeneous and Interoperable
+    Blockchains'
+  authors:
+  - Yongyang Lv
+  - Xiaohong Li
+  - Yingwenbo Wang
+  - Kui Chen
+  - Zhe Hou
+  - Ruitao Feng
+  publisher: 2024 IEEE International Conference on Bioinformatics and Biomedicine
+    (BIBM)
+  date: '2024-12-03'
+  link: https://doi.org/hbcpcs
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3658644.3670375
+  title: 'Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly
+    Detection in Security Applications'
+  authors:
+  - Dongqi Han
+  - Zhiliang Wang
+  - Ruitao Feng
+  - Minghui Jin
+  - Wenqi Chen
+  - Kai Wang
+  - Su Wang
+  - Jiahai Yang
+  - Xingang Shi
+  - Xia Yin
+  - Yang Liu
+  publisher: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications
+    Security
+  date: '2024-12-02'
+  link: https://doi.org/g9s3d9
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3691620.3695024
+  title: Detecting and Explaining Anomalies Caused by Web Tamper Attacks via Building
+    Consistency-based Normality
+  authors:
+  - Yifan Liao
+  - Ming Xu
+  - Yun Lin
+  - Xiwen Teoh
+  - Xiaofei Xie
+  - Ruitao Feng
+  - Frank Liaw
+  - Hongyu Zhang
+  - Jin Song Dong
+  publisher: Proceedings of the 39th IEEE/ACM International Conference on Automated
+    Software Engineering
+  date: '2024-10-27'
+  link: https://doi.org/hbcpct
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/TIFS.2024.3463533
+  title: Reinventing Multi-User Authentication Security From Cross-Chain Perspective
+  authors:
+  - Yongyang Lv
+  - Ruitao Feng
+  - Maode Ma
+  - Manqing Zhu
+  - Hanwei Wu
+  - Xiaohong Li
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2024-01-01'
+  link: https://doi.org/hbcpcv
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3650212.3652130
+  title: 'FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion'
+  authors:
+  - Qi Guo
+  - Xiaohong Li
+  - Xiaofei Xie
+  - Shangqing Liu
+  - Ze Tang
+  - Ruitao Feng
+  - Junjie Wang
+  - Jidong Ge
+  - Lei Bu
+  publisher: Proceedings of the 33rd ACM SIGSOFT International Symposium on Software
+    Testing and Analysis
+  date: '2024-09-11'
+  link: https://doi.org/hbcpcw
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3652032.3657577
+  title: 'Unmasking the Lurking: Malicious Behavior Detection for IoT Malware with
+    Multi-label Classification'
+  authors:
+  - Ruitao Feng
+  - Sen Li
+  - Sen Chen
+  - Mengmeng Ge
+  - Xuewei Li
+  - Xiaohong Li
+  publisher: Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on
+    Languages, Compilers, and Tools for Embedded Systems
+  date: '2024-06-20'
+  link: https://doi.org/hbcpcx
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3652032.3657564
+  title: Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data
+    Augmentation
+  authors:
+  - Shangqing Liu
+  - Wei Ma
+  - Jian Wang
+  - Xiaofei Xie
+  - Ruitao Feng
+  - Yang Liu
+  publisher: Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on
+    Languages, Compilers, and Tools for Embedded Systems
+  date: '2024-06-20'
+  link: https://doi.org/hbcpcz
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3641543
+  title: 'Beyond Fidelity: Explaining Vulnerability Localization of Learning-Based
+    Detectors'
+  authors:
+  - Baijun Cheng
+  - Shengming Zhao
+  - Kailong Wang
+  - Meizhen Wang
+  - Guangdong Bai
+  - Ruitao Feng
+  - Yao Guo
+  - Lei Ma
+  - Haoyu Wang
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2024-06-04'
+  link: https://doi.org/hbcpc2
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/ICDMW60847.2023.00172
+  title: 'SeqAdver: Automatic Payload Construction and Injection in Sequence-based
+    Android Adversarial Attack'
+  authors:
+  - Fei Zhang
+  - Ruitao Feng
+  - Xiaofei Xie
+  - Xiaohong Li
+  - Lianshuan Shi
+  publisher: 2023 IEEE International Conference on Data Mining Workshops (ICDMW)
+  date: '2023-12-04'
+  link: https://doi.org/hbcpc3
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/ICDMW60847.2023.00171
+  title: Automatic Detection and Analysis towards Malicious Behavior in IoT Malware
+  authors:
+  - Sen Li
+  - Mengmeng Ge
+  - Ruitao Feng
+  - Xiaohong Li
+  - Kwok Yan Lam
+  publisher: 2023 IEEE International Conference on Data Mining Workshops (ICDMW)
+  date: '2023-12-04'
+  link: https://doi.org/hbcpc4
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3611643.3616262
+  title: Comparison and Evaluation on Static Application Security Testing (SAST) Tools
+    for Java
+  authors:
+  - Kaixuan Li
+  - Sen Chen
+  - Lingling Fan
+  - Ruitao Feng
+  - Han Liu
+  - Chengwei Liu
+  - Yang Liu
+  - Yixiang Chen
+  publisher: Proceedings of the 31st ACM Joint European Software Engineering Conference
+    and Symposium on the Foundations of Software Engineering
+  date: '2023-11-30'
+  link: https://doi.org/gs8bhr
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3597926.3598056
+  title: A Comprehensive Study on Quality Assurance Tools for Java
+  authors:
+  - Han Liu
+  - Sen Chen
+  - Ruitao Feng
+  - Chengwei Liu
+  - Kaixuan Li
+  - Zhengzi Xu
+  - Liming Nie
+  - Yang Liu
+  - Yixiang Chen
+  publisher: Proceedings of the 32nd ACM SIGSOFT International Symposium on Software
+    Testing and Analysis
+  date: '2023-07-12'
+  link: https://doi.org/hbcpc5
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/TDSC.2022.3213689
+  title: Multi-label Classification for Android Malware Based on Active Learning
+  authors:
+  - Qijing Qiao
+  - Ruitao Feng
+  - Sen Chen
+  - Fei Zhang
+  - Xiaohong Li
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2024-01-01'
+  link: https://doi.org/hbcpc6
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1145/3551349.3560422
+  title: 'TransRepair: Context-aware Program Repair for Compilation Errors'
+  authors:
+  - Xueyang Li
+  - Shangqing Liu
+  - Ruitao Feng
+  - Guozhu Meng
+  - Xiaofei Xie
+  - Kai Chen
+  - Yang Liu
+  publisher: Proceedings of the 37th IEEE/ACM International Conference on Automated
+    Software Engineering
+  date: '2022-10-10'
+  link: https://doi.org/gsdrdr
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/TDSC.2022.3200525
+  title: 'Deep Learning for Coverage-Guided Fuzzing: How Far are We?'
+  authors:
+  - Siqi Li
+  - Xiaofei Xie
+  - Yun Lin
+  - Yuekang Li
+  - Ruitao Feng
+  - Xiaohong Li
+  - Weimin Ge
+  - Jin Song Dong
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2024-01-01'
+  link: https://doi.org/gtv8sc
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/TDSC.2022.3192631
+  title: Enhancing Security Patch Identification by Capturing Structures in Commits
+  authors:
+  - Bozhi Wu
+  - Shangqing Liu
+  - Ruitao Feng
+  - Xiaofei Xie
+  - Jingkai Siow
+  - Shang-Wei Lin
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2024-01-01'
+  link: https://doi.org/gqrjq4
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/APSEC53868.2021.00028
+  title: 'IconChecker: Anomaly Detection of Icon-Behaviors for Android Apps'
+  authors:
+  - Yuxuan Li
+  - Ruitao Feng
+  - Sen Chen
+  - Qianyu Guo
+  - Lingling Fan
+  - Xiaohong Li
+  publisher: 2021 28th Asia-Pacific Software Engineering Conference (APSEC)
+  date: '2021-12-01'
+  link: https://doi.org/g6d2rr
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/ICECCS51672.2020.00015
+  title: 'SeqMobile: An Efficient Sequence-Based Malware Detection System Using RNN
+    on Mobile Devices'
+  authors:
+  - Ruitao Feng
+  - Jing Qiang Lim
+  - Sen Chen
+  - Shang-Wei Lin
+  - Yang Liu
+  publisher: 2020 25th International Conference on Engineering of Complex Computer
+    Systems (ICECCS)
+  date: '2020-10-01'
+  link: https://doi.org/hbcpc7
+  plugin: sources.py
+  file: sources-feng.yaml
+- id: doi:10.1109/TIFS.2020.3025436
+  title: A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile
+    Devices
+  authors:
+  - Ruitao Feng
+  - Sen Chen
+  - Xiaofei Xie
+  - Guozhu Meng
+  - Shang-Wei Lin
+  - Yang Liu
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2021-01-01'
+  link: https://doi.org/gq7qm5
+  plugin: sources.py
+  file: sources-feng.yaml

@@ -1,0 +1,63 @@
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   date: 2020-12-4
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: source
+#       text: Manuscript Source
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
+
+# - id: doi:10.1016/j.csbj.2020.05.017
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+# - id: doi:10.7554/eLife.32822
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1016/j.knosys.2025.113326
+  type: paper
+  description: A novel dictionary attack against ECG authentication systems, which poses a significant threat.
+  date: 2025-09-1
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0950705125003739-gr2_lrg.jpg
+  # buttons:
+  #   # - type: manubot
+  #   #   link: https://greenelab.github.io/meta-review/
+  #   - type: source
+  #     text: Code and Data
+  #     link: https://github.com/aiopsplus/Carllm
+  #   # - type: website
+    #   link: http://manubot.org/
+  tags:
+    - bipmetric
+    - authentication
+    - security
+  
+  # repo: aiopsplus/Carllm
+
+- id: doi:10.1016/j.comcom.2025.108201
+
+- id: doi:10.1007/978-981-96-0567-5_19
+
+- id: doi:10.1007/978-981-96-4566-4_11
+
+- id: doi:10.1109/JAS.2024.124983
+
+- id: doi:10.1007/978-981-96-1545-2_18
+
+- id: doi:10.1016/j.cose.2023.103488
+
+- id: doi:10.1145/3607199.3607209
+
+- id: doi:10.1007/978-3-031-51479-1_10
+
+- id: doi:10.1109/IJCNN54540.2023.10192018
+
+- id: doi:10.1145/3560830.3563722

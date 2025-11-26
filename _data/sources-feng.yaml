@@ -1,0 +1,91 @@
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   date: 2020-12-4
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: source
+#       text: Manuscript Source
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
+
+# - id: doi:10.1016/j.csbj.2020.05.017
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+# - id: doi:10.7554/eLife.32822
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1109/TDSC.2025.3609801
+  type: paper
+  description: A novel model for guaranteeing the quality and quantity of shared data, addressing the data silo problem in distributed architectures.
+  date: 2025-09-1
+  # image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  # buttons:
+  #   # - type: manubot
+  #   #   link: https://greenelab.github.io/meta-review/
+  #   - type: source
+  #     text: Code and Data
+  #     link: https://github.com/aiopsplus/Carllm
+  #   # - type: website
+    #   link: http://manubot.org/
+  tags:
+    - data sharing
+    - blockchain
+  
+  # repo: aiopsplus/Carllm
+
+- id: doi:10.1145/3715909
+
+- id: doi:10.1145/3729346
+
+- id: doi:10.1109/JIOT.2025.3579266
+
+- id: doi:10.1186/s42400-024-00301-0
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs42400-024-00301-0/MediaObjects/42400_2024_301_Fig3_HTML.png?as=webp
+
+- id: doi:10.1109/TrustCom63139.2024.00048
+
+- id: doi:10.1109/BIBM62325.2024.10822679
+
+- id: doi:10.1145/3658644.3670375
+
+- id: doi:10.1145/3691620.3695024
+
+- id: doi:10.1109/TIFS.2024.3463533
+
+- id: doi:10.1145/3650212.3652130
+
+- id: doi:10.1145/3652032.3657577
+
+- id: doi:10.1145/3652032.3657564
+
+- id: doi:10.1145/3641543
+
+- id: doi:10.1109/ICDMW60847.2023.00172
+
+- id: doi:10.1109/ICDMW60847.2023.00171
+
+- id: doi:10.1145/3611643.3616262
+
+- id: doi:10.1145/3597926.3598056
+
+- id: doi:10.1109/TDSC.2022.3213689
+
+- id: doi:10.1145/3551349.3560422
+
+- id: doi:10.1109/TDSC.2022.3200525
+
+- id: doi:10.1109/TDSC.2022.3192631
+
+- id: doi:10.1109/APSEC53868.2021.00028
+
+- id: doi:10.1109/ICECCS51672.2020.00015
+
+- id: doi:10.1109/TIFS.2020.3025436

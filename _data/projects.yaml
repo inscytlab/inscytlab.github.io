@@ -1,47 +1,47 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: HAICS
+  subtitle: CNN Attention Guidance for improved orthopedics radiographic fracture classification
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/haics.jpg
+  link: https://github.com/zhibinliao89/fracture_attention_guidance
+  description: We explored the effectiveness of regularizing CNN network with human-provided attention guidance on where in the image the network should look for answering clues. On two orthopedics radiographic fracture classification datasets, through extensive experiments we demonstrate that explicit human-guided attention indeed can direct correct network attention and consequently significantly improve classification performance. This work was done in collaboration with Defence Science and Technology Group (DSTG) and Flinders Medical Centre.
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # repo: zhibinliao89/fracture_attention_guidance
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Injury risk prediction in Australian Football League
+  subtitle: Hamstring Strain Injury Risk Factors in Australian Football Change over the Course of the Season
+  group: featured
+  image: images/afl.jpg
+  description: This study aimed to determine which factors were most predictive of hamstring strain injury (HSI) during different stages of the competition in professional Australian Football. We found that risk factors associated with prospective HSI were different across the season in Australian Rules Football, with nonmodifiable factors (previous HSI, age, and height) mostly associated with preseason injuries. Early in-season HSI were associated with modifiable factors, notably biceps femoris long head architectural measures. This work was done in collaboration with AFL.
   tags:
-    - software
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  # repo: zhibinliao89/fracture_attention_guidance
   tags:
-    - software
+    - publication
+
+
+- title: C4RLLaMA
+  subtitle: tool for detecting and rectifying code comment inconsistency
+  # group: featured
+  image: images/c4rllama.jpg
+  link: https://github.com/aiopsplus/C4RLLaMA
+  description: C4RLLaMA is a fine-tuned large language model based on the open-source CodeLLaMA. It not only has the ability to rectify inconsistencies by correcting relevant comment content but also outperforms state-of-the-art approaches in detecting inconsistencies. This project was in partnership with Zhongxing Telecommunication.
+
+  # repo: aiopsplus/C4RLLaMA
+  tags:
+    - resource
+    - publication
+
+
+- title: DLAP
+  subtitle: tool for software vulnerability detection
+  image: images/dlap.jpg
+  link: https://github.com/Yang-Yanjing/DLAP
+  description: DLAP is a Deep Learning Augmented LLMs Prompting framework that combines the best of both DL models and LLMs to achieve exceptional vulnerability detection performance, outperforming state-of-the-art prompting frameworks, including role-based prompts, auxiliary information prompts, chain-of-thought prompts, and in-context learning prompts, as well as fine-turning on multiple metrics.
+  # repo: https://github.com/Yang-Yanjing/DLAP
+  tags:
+    - resource
+    - publication

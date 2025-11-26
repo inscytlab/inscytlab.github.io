@@ -1,0 +1,91 @@
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   date: 2020-12-4
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: source
+#       text: Manuscript Source
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
+
+# - id: doi:10.1016/j.csbj.2020.05.017
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+# - id: doi:10.7554/eLife.32822
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1145/3695993
+  type: paper
+  description: A novel LLM fine-tuning method that significantly improves accuracy and comprehensibility of automated code review.
+  date: 2024-12-27
+  # image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+    # - type: manubot
+    #   link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Code and Data
+      link: https://github.com/aiopsplus/Carllm
+    # - type: website
+    #   link: http://manubot.org/
+  tags:
+    - code review
+    - fine tuning
+    - large language model
+  repo: aiopsplus/Carllm
+
+- id: doi:10.1109/ICSE55347.2025.00035
+
+- id: doi:10.1007/s10515-025-00540-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10515-025-00540-6/MediaObjects/10515_2025_540_Fig2_HTML.png?as=webp
+
+- id: doi:10.1109/JIOT.2025.3595556
+
+- id: doi:10.1016/j.jss.2024.112234 
+
+- id: doi:10.1145/3755881.3755889
+  image: https://dl.acm.org/cms/10.1145/3755881.3755889/asset/61e7cf9b-77b7-4cc9-a001-25616da039c3/assets/images/medium/internetware2025-8-fig1.jpg
+
+- id: doi:10.1016/j.future.2024.06.014
+
+- id: doi:10.1109/TSE.2024.3356819
+
+- id: doi:10.1249/MSS.0000000000003297
+
+- id: doi:10.1109/TSE.2023.3330510
+
+- id: doi:10.1109/ICSE48619.2023.00080
+
+- id: doi:10.1109/TSE.2023.3241299
+
+- id: doi:10.1049/sfw2.12132
+  image: https://ietresearch.onlinelibrary.wiley.com/cms/asset/83784c28-388d-47b9-afbd-90642434b517/sfw212132-fig-0002-m.jpg
+
+- id: doi:10.1109/ICDE55515.2023.00222
+
+- id: doi:10.1016/j.ijhcs.2022.102927
+
+- id: doi:10.1109/TSE.2022.3166924
+
+- id: doi:10.1109/JBHI.2022.3152267
+
+- id: doi:10.1016/j.infsof.2021.106700
+
+- id: doi:10.1016/j.infsof.2021.106607
+
+- id: doi:10.1145/3411763.3451798
+
+- id: doi:10.1016/j.infsof.2020.106397
+
+- id: doi:10.1016/j.ijhcs.2020.102524
+
+- id: doi:10.1109/QRS51102.2020.00064
+
+- id: doi:/10.1145/3383219.3383222
