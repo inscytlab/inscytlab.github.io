@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you are interested in our research or would like to collaborate with us, you can contact us by email or call or visit us at Level 5, Building B, Southern Cross University Gold Coast Campus. 
+If you are interested in our research or would like to collaborate with us, you can contact us by email or phone, or visit us at Level 5, Building B, Southern Cross University Gold Coast Campus. 
 
 {%
   include button.html
