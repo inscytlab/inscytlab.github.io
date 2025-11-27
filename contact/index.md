@@ -12,8 +12,8 @@ If you are interested in our research or would like to collaborate with us, you 
 {%
   include button.html
   type="email"
-  text="haifeng.shen@scu.edu.au"
-  link="haifeng.shen@scu.edu.au"
+  text="inscytlab@gmail.com"
+  link="inscytlab@gmail.com"
 %}
 {%
   include button.html
