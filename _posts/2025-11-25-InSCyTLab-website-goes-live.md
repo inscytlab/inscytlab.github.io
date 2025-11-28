@@ -1,7 +1,7 @@
 ---
 title: InSCyTLab website goes live
 image: images/photo.jpg
-author: haifeng-shen
+author: 1-haifeng-shen
 tags: milestone
 ---
 
